@@ -2,7 +2,9 @@
 
 Welcome to my SQL Interview Preparation repository!
 
-This repository documents my journey of learning and practicing SQL from **Beginner to Advanced** using **SQLite**. The goal is to strengthen my SQL skills for **Data Analyst** interviews through structured, topic-wise practice.
+I created this repository to document my SQL learning journey while preparing for Data Analyst interviews. The repository contains topic-wise SQL practice, starting from the fundamentals and gradually progressing to advanced concepts using a single E-Commerce Sales database.
+
+Each topic includes practice questions, clean SQL solutions, and organized notes to help reinforce my understanding while building a professional GitHub portfolio.
 
 ---
 
